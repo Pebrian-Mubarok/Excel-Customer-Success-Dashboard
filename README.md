@@ -1,2 +1,2 @@
 # Excel-Customer-Success-Dashboard
-![image]({https://drive.google.com/file/d/1Q9t64fzXFvd7zDPry6dvvXsBExGRpyfu/view?usp=share_link})
+![Dashboard](https://github.com/pebrianmubarok2/Excel-Customer-Success-Dashboard/blob/main/Excel%20Customer%20Success%20Dashboard.jpeg)
